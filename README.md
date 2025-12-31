@@ -15,38 +15,55 @@
 
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammadjashimuddinrubel/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-  <a href="https://fb.com/md jashim uddin rubel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="48" />
-  </a>
-  <a href="https://www.codechef.com/users/jashimjnn22990" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" />
-  </a>
-  <a href="https://codeforces.com/profile/jashimjnn22990" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48" />
-  </a>
-  <a href="https://www.leetcode.com/mdjashimuddinjnn22990" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohammadjashimuddinrubel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://fb.com/md jashim uddin rubel" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="48" /></a>
+  <a href="https://www.codechef.com/users/jashimjnn22990" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" /></a>
+  <a href="https://codeforces.com/profile/jashimjnn22990" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48" /></a>
+  <a href="https://www.leetcode.com/mdjashimuddinjnn22990" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48" /></a>
 </p>
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,cpp,c,git,tailwind,mysql,django,jwt" />
-</p>
-<p align="center">
-  <sub><strong>DaisyUI • REST APIs • Git • Responsive Design</strong></sub>
-</p>
-
----
-
-## 🚀 **About Me**
+## 🧑‍💻 **About Me**
 I’m a passionate Computer Science & Engineering student (Honours 3rd Year) and a self-motivated full-stack developer.  
-I love building modern web applications, exploring new technologies, and improving my problem-solving skills.
+I love building modern web applications, exploring new technologies, and improving my problem-solving skills through real-world projects.
+
+---
+
+## 🚀 **Current Activities**
+- 🌱 I’m currently learning **Next.js & TypeScript**  
+- 🔭 I’m working on **a tourism & travel booking website**  
+- 📘 I’m improving my **backend security & JWT workflow**  
+- 💡 I’m practicing **Data Structures & Algorithms**
+
+---
+
+## 🛠️ **Tech Stack & Tools (Categorized)**
+
+### **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jwt" />
+</p>
+
+### **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### **Tools & Others**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,django,postman" />
+</p>
+
+<p align="center">
+  <sub><strong>DaisyUI • REST APIs • Responsive UI • Authentication • CRUD Apps</strong></sub>
+</p>
 
 ---
 
@@ -62,8 +79,8 @@ I love building modern web applications, exploring new technologies, and improvi
 <li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JS, React, Firebase,Node ,Express, MongoDB, JWT</li>
 </ul>
 <p align="center">
-<a href="https://github.com/MdJashim18/Electrohub_client">📦 Repository Client</a>
-<a href="https://github.com/MdJashim18/ElectroHub_server">📦 Repository Server</a>
+<a href="https://github.com/MdJashim18/Electrohub_client">📦 Client</a> |
+<a href="https://github.com/MdJashim18/ElectroHub_server">📦 Server</a>
 </p>
 </td>
 
@@ -75,8 +92,8 @@ I love building modern web applications, exploring new technologies, and improvi
 <li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JS, React, Firebase,Node ,Express, MongoDB, JWT</li>
 </ul>
 <p align="center">
-<a href="https://github.com/MdJashim18/Contest_Client">📦 Repository Client</a>
-<a href="https://github.com/MdJashim18/Contest_Server">📦 Repository Server</a>
+<a href="https://github.com/MdJashim18/Contest_Client">📦 Client</a> |
+<a href="https://github.com/MdJashim18/Contest_Server">📦 Server</a>
 </p>
 </td>
 
@@ -88,8 +105,8 @@ I love building modern web applications, exploring new technologies, and improvi
 <li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JS, React, Firebase, Node, Express, MongoDB, JWT</li>
 </ul>
 <p align="center">
-<a href="https://github.com/MdJashim18/food-network-client">📦 Repository Client</a>
-<a href="https://github.com/MdJashim18/food-network-server">📦 Repository Server</a>
+<a href="https://github.com/MdJashim18/food-network-client">📦 Client</a> |
+<a href="https://github.com/MdJashim18/food-network-server">📦 Server</a>
 </p>
 </td>
 </tr>
