@@ -55,14 +55,15 @@ I love building modern web applications, exploring new technologies, and improvi
 <table>
 <tr>
 <td width="33%">
-<h3 align="center">🔹Apps</h3>
-<p>A responsive utility web application.</p>
+<h3 align="center">🔹ElectroHub</h3>
+<p>A full-stack Electronics network Website</p>
 <ul>
-<li>🌐 <strong>Live:</strong> https://legendary-klepon-a9dd89.netlify.app/</li>
-<li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JavaScript, React</li>
+<li>🌐 <strong>Live:</strong> https://dynamic-entremet-3c9ebb.netlify.app/</li>
+<li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JS, React, Firebase,Node ,Express, MongoDB, JWT</li>
 </ul>
 <p align="center">
-<a href="https://github.com/MdJashim18/Apps">📦 Repository</a>
+<a href="https://github.com/MdJashim18/Electrohub_client">📦 Repository Client</a>
+<a href="https://github.com/MdJashim18/ElectroHub_server">📦 Repository Server</a>
 </p>
 </td>
 
@@ -87,7 +88,8 @@ I love building modern web applications, exploring new technologies, and improvi
 <li>⚙️ <strong>Tech:</strong> HTML, CSS, Tailwind, DaisyUI, JS, React, Firebase, Node, Express, MongoDB, JWT</li>
 </ul>
 <p align="center">
-<a href="https://github.com/MdJashim18/Foods-Lover">📦 Repository</a>
+<a href="https://github.com/MdJashim18/food-network-client">📦 Repository Client</a>
+<a href="https://github.com/MdJashim18/food-network-server">📦 Repository Server</a>
 </p>
 </td>
 </tr>
